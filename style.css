@@ -1,0 +1,83 @@
+.bg-orange-500 {
+    background-color: #F85606;
+
+}
+.btn {
+    background-color: darkgray;
+    border-radius: 10px;
+}
+#carouselExampleCaptions{
+   
+    border-radius: 10px;
+    width: 90%;
+    margin-left: 5%;
+}
+
+
+.d-block{
+    height: 400px;
+    width: 90%;
+}
+.carousel-item{
+ 
+    border-radius: 10px;
+    justify-content: center;
+}
+.carousel-inner{
+  
+    border-radius: 10px;
+    justify-content: center;
+}
+.carousel-item active{
+    border-radius: 10px;
+ 
+    width: 90%;
+}
+.btn-group{
+    width: 90%;
+    height: 50px;
+    margin-left: 5%;
+   
+}
+.shopping-carts{
+    
+    display: flex;
+}
+.sale-items{
+   border: solid #F85606;
+   border-radius: 20px;
+    margin-top: 10px;
+    width: 90%;
+    height: 50px;
+    margin-left: 50px;
+    display: flex;
+    flex-direction: row;
+}
+.load-btn{
+    
+    height: 90px;
+    
+} 
+#btn1{
+    margin-left: 22%;
+    width: 50%;
+}
+.container-1{
+    border: solid gray;
+    border-radius: 20px;
+    width: 35%;
+    gap: 30px;
+    
+   
+    
+}
+.list-items{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 8px;
+
+}
+.link-opacity-50-hover{
+    text-emphasis-color: black;
+}
